@@ -54,7 +54,7 @@
               <div class="carousel-caption text-end">
                 <h1></h1>
                 <p></p>
-                <p style="font-family: 'Montserrat', sans-serif;"><a style="font-size: 12pt;" class="btn btn-lg btn-outline-light rounded-pill" href="{{url('search')}}">Lacak Pesananmu</a></p>
+                <p style="font-family: 'Montserrat', sans-serif;"><a style="font-size: 12pt;" class="btn btn-lg btn-outline-light rounded-pill" href="{{url('/search')}}">Lacak Pesananmu</a></p>
               </div>
             </div>
           </div>
